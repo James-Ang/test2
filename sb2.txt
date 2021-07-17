@@ -1,3 +1,4 @@
 sb2
 add this line here
 add coffee local
+add coffee remote
